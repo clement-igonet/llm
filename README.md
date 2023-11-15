@@ -1,6 +1,6 @@
 [TOC]
 
-This page exposes steps to make run a coding assistane on your VSCode/VSCodium.
+This page exposes steps to make run a coding assistant on your VSCode/VSCodium.
 
 # First try
 
